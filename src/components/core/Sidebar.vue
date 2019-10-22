@@ -78,10 +78,7 @@
 
 <script>
 export default {
-  name: 'Sidebar',
-  props: {
-    msg: String
-  }
+  name: 'Sidebar'
 }
 </script>
 
