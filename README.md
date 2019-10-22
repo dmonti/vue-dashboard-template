@@ -1,5 +1,5 @@
 # vue-dashboard-template
-Vue.js Dashboard template with Bootstrap
+Bootstrap v4.3 [dashboard example](https://getbootstrap.com/docs/4.3/examples/dashboard/#) with Vue.js
 
 ## Project setup
 ```
