@@ -11,13 +11,18 @@
 </template>
 
 <script>
+import feather from 'feather-icons'
+
 export default {
   name: 'app',
-  components: {}
+  mounted: function () {
+    feather.replace()
+  }
 }
 </script>
 <style lang="scss">
 @import 'styles/index.scss';
+
 .bd-placeholder-img {
   font-size: 1.125rem;
   text-anchor: middle;
