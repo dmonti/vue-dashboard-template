@@ -1,7 +1,7 @@
 # vue-dashboard-template
-Vue.js v2.6 and Bootstrap v4.3 [dashboard example](https://getbootstrap.com/docs/4.3/examples/dashboard) with Vue.js
+Bootstrap v4.3 [dashboard example](https://getbootstrap.com/docs/4.3/examples/dashboard) with Vue.js v2.6
 
-[Live demo](http://vue-dashboard-template.s3-website-us-east-1.amazonaws.com)
+See this [live demo](http://vue-dashboard-template.s3-website-us-east-1.amazonaws.com)
 
 ## Project setup
 ```
