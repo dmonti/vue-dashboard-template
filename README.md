@@ -1,5 +1,5 @@
 # vue-dashboard-template
-Bootstrap v4.3 [dashboard example](https://getbootstrap.com/docs/4.3/examples/dashboard) with Vue.js v2.6
+Bootstrap v4.5 [dashboard example](https://getbootstrap.com/docs/4.3/examples/dashboard) with Vue.js v2.6
 
 See this [live demo](http://vue-dashboard-template.s3-website-us-east-1.amazonaws.com)
 
